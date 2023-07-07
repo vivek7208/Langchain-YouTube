@@ -37,7 +37,7 @@ The application is built using Streamlit. To run the application locally, you'll
 Clone the repository:
 
 ```bash
-git clone https://github.com/Vectron-IITM/langchain_app.git
+git clone https://github.com/vivek7208/langchain_app.git
 cd langchain_app
 ```
 
